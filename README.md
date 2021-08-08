@@ -1,4 +1,4 @@
-# NEW_PROJECT_NAME_GOES_HERE
+# How to Get Started With Docker and Laravel
 
 Template for new projects
 
@@ -10,7 +10,7 @@ cd ~
 
 ---
 
-REPO_NAME=XXX
+REPO_NAME=Docker-Laravel_Twilio
 
 hub delete -y tomnoland/$REPO_NAME
 
